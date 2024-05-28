@@ -1,5 +1,5 @@
 # NÚMERO CAPICÚA Y RAÍCES DE UNA ECUACIÓN CUADRÁTICA
-## Examen 1- Programación 1
+## Examen 1 - Programación 1
 
 1. Escriba un programa en C que lea un número entero por teclado y determine si es capicúa o no.
 Notas:
